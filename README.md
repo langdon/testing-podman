@@ -1,9 +1,9 @@
 # testing-podman
 showing some weirdness in podman
 
-git clone https://github.com/whitel/testing-podman.git
-sudo podman build -t my/apache .
-podman images
+1. git clone https://github.com/whitel/testing-podman.git
+1. sudo podman build -t my/apache .
+1. podman images
 ```bash
  sudo podman images
 REPOSITORY                 TAG      IMAGE ID       CREATED          SIZE
